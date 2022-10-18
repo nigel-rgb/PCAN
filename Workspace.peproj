@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PCANExplorerProject Version="6.0" AppVersion="6.6.0" Name="Workspace">
+    <Connections AutoReset="0" IgnoreRTRLength="0" ProcessRTR="1">
+        <Connection Name="Connection1" Bus="1" Enabled="0" Protocol="0" Connection="PCAN USB@pcan_usb"/>
+    </Connections>
+    <Files>
+        <File RelativePath="..\Gridania-Realtime\CAN-DBC\Model_1\consolidated_0_75.dbc"/>
+        <File RelativePath="charging_gui.ipf"/>
+        <File RelativePath="vehicle.ipf"/>
+    </Files>
+</PCANExplorerProject>
